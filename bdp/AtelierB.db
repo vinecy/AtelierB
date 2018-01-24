@@ -4,5 +4,8 @@
     <project decomp_dir="G:\medel b\AtelierB\bdp\expand_src" old_decomp_dir="G:\medel b\AtelierB\bdp\src">
         <!-- Definition directory list -->
         <!-- Component file list -->
+        <component_file path="G:/medel b/AtelierB" name="asd" suffix="mch" user="li">
+            <component name="asd" type="specification" />
+        </component_file>
     </project>
 </db_xml>
