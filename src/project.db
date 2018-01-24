@@ -7,5 +7,8 @@
         <component_file path="C:/Users/Vincent/Desktop/AtelierB" name="ctx" suffix="mch" user="Vincent">
             <component name="ctx" type="specification" />
         </component_file>
+        <component_file path="C:/Users/Vincent/Desktop/AtelierB" name="ctx2" suffix="mch" user="Vincent">
+            <component name="ctx2" type="specification" />
+        </component_file>
     </project>
 </db_xml>
