@@ -1,7 +1,0 @@
-digraph {
-VM [ label=" VM " shape= box ]
-ctx [ label=" ctx " shape= box ]
-opcode [ label=" opcode " shape= box ]
-program [ label=" program " shape= box ]
-
-}
